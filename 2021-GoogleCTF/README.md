@@ -2,7 +2,7 @@
 
 ##  Challenges solved:  
   -  Web:  
-  	-  challenge1 (points)  
-  	-  challenge2 (points)  
+    -  challenge1 (points)  
+    -  challenge2 (points)  
   -  misc:  
-  	-  challenge3 (points)  
+    -  challenge3 (points)  
