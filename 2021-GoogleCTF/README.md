@@ -1,6 +1,6 @@
-#Google-CTF 2021  
+#  Google-CTF 2021  
 
-##Challenges solved:  
+##  Challenges solved:  
   -Web:  
   	- challenge1 (points)  
   	- challenge2 (points)  
